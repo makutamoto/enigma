@@ -1,0 +1,6 @@
+[package]
+name = "enigma"
+version = "0.1.0"
+authors = ["Makutamoto <34860673+makutamoto@users.noreply.github.com>"]
+
+[dependencies]
